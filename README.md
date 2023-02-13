@@ -1,2 +1,2 @@
 # HealthCare-Assignment
-A health tech company called ‘BeHealthy’ aims to connect the medical communities with millions of patients across the country.
+A health tech company called ‘BeHealthy’ aims to connect the medical communities with millions of patients.‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. You need to build a custom NER to get the list of diseases and their treatment from the dataset.
